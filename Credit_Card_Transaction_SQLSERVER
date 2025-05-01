@@ -41,14 +41,15 @@ from ranked_monthly_spend
 where rn =1;
 
 
-3.write a query to print the transaction details(all columns from the table) for each card type when it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p one for each card type)
+3.write a query to print the transaction details(all columns from the table) for each card type 
+when it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p one for each card type)
 
 with cte as(
 select *,
 sum(amount) over(partition by card_type order by transaction_date,transaction_id )as running_sum
 from credit_card_transcations)
 , flagged as(
-Select *, rank() over(partition by card_type order by transaction_date,transaction_id) as rn
+Select *, rank() over(partition by card_type order by running_sum) as rn
 from cte
 where running_sum>= 1000000)
 
