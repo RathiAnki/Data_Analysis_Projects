@@ -1,6 +1,6 @@
 # datavision-lab
 
-# 🧠 SQL Case Studies – Olympics & Credit Card Transactions
+# 🧠 SQL Case Studies
 
 Welcome to my SQL Case Study repository where I’ve solved real-world analytical problems using structured datasets. 
 This repository includes two major case studies:
