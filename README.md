@@ -14,7 +14,6 @@ This repository includes two major case studies:
 
 ### 1. Athlete Case Study
 
-- **Files:** `athlete_events.csv`, `athletes.csv`
 - **Source:** provided by Ankit Bansal in his NamasteSQL course
 - **Columns Include:**
   - Athlete name, gender, team, year, season, sport, event, medal (Gold/Silver/Bronze)
