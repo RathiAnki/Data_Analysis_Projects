@@ -20,7 +20,6 @@ This repository includes two major case studies:
 
 ### 2. Credit Card Transactions
 
-- **File:** `Credit_Card_Transactions_CaseStudy.sql`
 - **Source:** [provided by Ankit Bansal in his NamasteSQL course](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
 - **Details:**
   - Transaction data from cities like Delhi, Bengaluru, and Mumbai
