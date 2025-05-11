@@ -1,6 +1,4 @@
 Select *  from credit_card_transcations
-![Alt Text]()
-
 
 1. write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
 with city_exp as (
