@@ -34,31 +34,10 @@ Usage distribution remains relatively balanced across genders.
 
 Monthly trends show spending spikes in early months of the year, a mid-year decline, and a recovery towards year-end.
 
-🔍 Key Highlights:
-🏙️ Top & Bottom Spending Cities:
-The dashboard includes a toggle option button that allows users to seamlessly switch between Top 5 and Bottom 5 cities by total transaction amount. This feature provides a dynamic comparison and helps identify both high-performing and under-penetrated markets.
 
-🧾 Expense Categories:
+**🏆 Weekend Spend Efficiency:**
 
-Major spend categories include Bills (22.26%), Food (20.24%), and Fuel (19.37%).
-
-Travel (2.68%) is the least spending category across all segments.
-
-🚻 Gender-Based Insights:
-
-Female users show higher spending on Bills and Food.
-
-Male users dominate in categories like Entertainment and Travel.
-
-💳 Card Type Utilization:
-
-Silver cards are most frequently used, followed by Signature and Platinum cards.
-
-Usage distribution remains relatively balanced across genders.
-
-📅 Time-Based Trends:
-
-Monthly trends show spending spikes in early months of the year, a mid-year decline, and a recovery towards year-end.
+**Sonepur** records the highest Weekend Spend per Transaction, indicating high-value weekend spending despite fewer transactions — a potential niche opportunity.
 
 🎯 Use Case:
 
