@@ -1,5 +1,6 @@
 
-![Credit_Card_Dashboard](https://github.com/user-attachments/assets/709876da-032e-47f4-8487-32c256aacc13)
+![Credit_Card_Dashboard](https://github.com/user-attachments/assets/69f9a65a-d585-4499-9954-58415e94c54e)
+
 
 **Credit Card Spending Dashboard**
 
