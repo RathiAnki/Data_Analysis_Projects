@@ -7,6 +7,7 @@ This repository includes two major case studies:
 
 1. **Olympics Athlete Analysis**
 2. **Credit Card Transaction Analysis**
+3. **Longest Query**
 
 ---
 
@@ -26,7 +27,12 @@ This repository includes two major case studies:
   - Card types: Gold, Silver, Platinum, Signature
   - Expense categories: Bills, Travel, Fuel, etc.
   - Customer gender and transaction amount
-
+ 
+  ### 3. Longest Query
+  - **Source:**  https://lnkd.in/grwVRvVg
+  - **Details:**
+    - Employees Details
+    - Salary History
 ---
 
 
@@ -39,7 +45,7 @@ This repository includes two major case studies:
 - Filtering: `WHERE`, `IN`, `NOT IN`
 - CTEs (Common Table Expressions)
 - Subqueries and Nested Queries
-- Date functions: `YEAR()`, `MONTH()`, `DATEPART()`
+- Date functions: `YEAR()`, `MONTH()`, `DATEPART()`, `DATEDIFF()`
 
 ---
 
