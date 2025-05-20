@@ -74,4 +74,9 @@ VALUES
     (6, '2017-11-22', 50000, 'No'),
     (6, '2018-11-22', 40000, 'No'),
     (6, '2021-09-10', 75000, 'Yes');
-    
+
+
+   ## **🙌 Contributions & Suggestions**
+
+Feel free to **fork this repository**, open an **issue**, or submit a **pull request** if you have any suggestions, improvements, or just want to use this solution in your own way.  
+Your feedback is always welcome! 💡
