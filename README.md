@@ -3,7 +3,7 @@
 # 🧠 SQL Case Studies
 
 Welcome to my SQL Case Study repository where I’ve solved real-world analytical problems using structured datasets. 
-This repository includes two major case studies:
+This repository includes major case studies:
 
 1. **Olympics Athlete Analysis**
 2. **Credit Card Transaction Analysis**
