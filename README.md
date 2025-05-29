@@ -8,7 +8,7 @@ This repository includes two major case studies:
 1. **Olympics Athlete Analysis**
 2. **Credit Card Transaction Analysis**
 3. **Longest Query**
-
+4. **Netflix Data Analysis and Visual**
 ---
 
 ## 📁 Datasets Used
