@@ -33,7 +33,12 @@ This repository includes two major case studies:
   - **Details:**
     - Employees Details
     - Salary History
----
+   
+  ### 4. Netflix Data Analysis and Visual
+    - **Source:**  [https://lnkd.in/grwVRvVg](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+    - **Details:**
+        - Netflix data from 2008 to mid 2021
+        - Columns Include : show_id, content_type , title ,genre_type , cast, director, date_added, rating, duration, description, release_year   
 
 
 ## 🧰 SQL Concepts Used
@@ -46,13 +51,15 @@ This repository includes two major case studies:
 - CTEs (Common Table Expressions)
 - Subqueries and Nested Queries
 - Date functions: `YEAR()`, `MONTH()`, `DATEPART()`, `DATEDIFF()`
-
+- Cross Apply 
 ---
 
 ## 📊 Tools
 
 - **SQL Server Management Studio (SSMS)** 
-- Datasets cleaned and analyzed entirely in SQL
+    - Datasets cleaned and analyzed entirely in SQL
+- **Excel and Power BI**
+    - Data Visualization
 
 ---
 
