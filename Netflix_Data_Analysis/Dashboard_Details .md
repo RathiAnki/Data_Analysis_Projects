@@ -31,3 +31,6 @@
 - Dramas and comedies are consistently popular, reflecting viewer preferences for these engaging genres.
 - Documentaries and Action & Adventure offer substantial variety but with lower overall volume.
 - Romantic Movies and Children & Family Movies round out the top 10, suggesting niche but important content categories.
+
+# Dashboard (Power BI)
+https://github.com/RathiAnki/Data_Analysis_Projects/blob/main/Netflix_Data_Analysis/Netflix_Dataset.pbix
